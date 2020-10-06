@@ -34,3 +34,6 @@ In addition, we have to predict the pc value, which is the probability that ther
 ![object detection](https://user-images.githubusercontent.com/57325166/95173248-0ac4d680-07d6-11eb-8083-18e4fec46482.png)
 
 
+
+
+
